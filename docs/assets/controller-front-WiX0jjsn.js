@@ -1,0 +1,1 @@
+var e=`/assets/controller-front-CF5lwbZX.svg`;export{e as t};
